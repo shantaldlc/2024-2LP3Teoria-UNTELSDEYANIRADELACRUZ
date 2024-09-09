@@ -1,0 +1,21 @@
+           COMANDOS GIT 
+
+* Crear repositorio: git int
+* Crear carpeta: mkdir
+-----------------------------------------------
+* Working directory a Stating area: git add -A
+* SA -> Repositorio: git commit -m "[mensaje]"
+-----------------------------------------------
+* Listar versiones : git log
+* Diferencias entre cada commit: git log -p (cambios)
+-----------------------------------------------
+Para enviar de git- git hub por primera vez
+1. Crear repositorio en github
+2. Crear repositorio en git
+3. En git: git remote....../ git push
+------------------------------------------------
+Para enviar de git- git hub por segunda vez 
+1. git push
+------------------------------------------------
+Para clonar proyectos desde GITHUB
+* git clone [pego el link del git de otro proyecto de github]
