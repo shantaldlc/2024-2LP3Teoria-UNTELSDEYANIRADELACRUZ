@@ -19,3 +19,7 @@ Para enviar de git- git hub por segunda vez
 ------------------------------------------------
 Para clonar proyectos desde GITHUB
 * git clone [pego el link del git de otro proyecto de github]
+-------------------------------------------------
+Como eliminar el origin de un repositori Git
+* git remote -v
+* git remote rm origin 
